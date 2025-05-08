@@ -5,52 +5,47 @@
       "switch": "Switch to English",
       "background": "black",
       "title": {
-        "name": "Egor Bron",
-        "tagline": "Learn, ~~Sleep~~, Code, Repeat",
-        "avatar": "https://avatars.githubusercontent.com/u/71507444",
+        "name": "Sample Name",
+        "tagline": "That is me!",
+        "avatar": "https://placehold.co/128x128",
         "socials": [
           {
-            "icon": "<img src='https://www.svgrepo.com/download/447150/telegram-outline.svg'>",
-            "link": "https://t.me/egorbron_sleep",
-            "text": "Telegram Channel (RU)"
-          },
-          {
             "icon": "<img src='https://www.svgrepo.com/download/521688/github.svg'>",
-            "link": "https://github.com/EgorBron",
+            "link": "https://github.com/",
             "text": "GitHub"
           },
           {
             "icon": "<img src='https://www.svgrepo.com/download/521128/email-1.svg'>",
-            "link": "mailto:bron@blusutils.net",
+            "link": "mailto:me@example.com",
             "text": "E-mail"
           }
         ]
       },
       "about": {
-        "title": "DSA",
+        "title": "About Me",
         "text": "DASDASDASDASD",
         "images": []
       },
       "timeline": {
-        "title": "DASDD",
+        "title": "Timeline",
         "items": [
           {
-            "year": "2020",
-            "text": "Started learning C# for Unity"
+            "year": "2000",
+            "text": "Sample line"
           },{
-            "year": "2020",
-            "text": "Started learning C# for Unity"
+            "year": "2036",
+            "text": "Sample line"
           },{
-            "year": "2020",
-            "text": "Started learning C# for Unity"
+            "year": "2042",
+            "text": "Sample line"
           },{
-            "year": "2020",
-            "text": "Started learning C# for Unity"
+            "year": "2100",
+            "text": "Sample line"
           }
         ]
       },
       "skills": {
-        "title": "SKI",
+        "title": "Skills",
         "items": [
           {
             "name": "undefined",
@@ -64,7 +59,7 @@
         ]
       },
       "achievements": {
-        "title": "ACH",
+        "title": "My Achievements",
         "items": [
           {
             "name": "undefined",
@@ -78,7 +73,7 @@
         ]
       },
       "portfolio": {
-        "title": "PORT",
+        "title": "Portfolio",
         "items": [
           {
             "name": "undefined",
@@ -91,7 +86,7 @@
           }
         ]
       },
-      "footer": "hjk"
+      "footer": "(c) 2025 Someone"
     }
   }
 }
