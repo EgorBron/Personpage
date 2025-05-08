@@ -1,0 +1,14 @@
+site:
+  title: "Personpage Editor"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/personpage.js"
+      api: "build/libs/bron.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/personpage.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8081

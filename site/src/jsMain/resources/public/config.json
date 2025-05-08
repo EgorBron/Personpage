@@ -1,0 +1,97 @@
+{
+  "defaultLanguage": "en",
+  "translations": {
+    "en": {
+      "switch": "Switch to English",
+      "background": "black",
+      "title": {
+        "name": "Egor Bron",
+        "tagline": "Learn, ~~Sleep~~, Code, Repeat",
+        "avatar": "https://avatars.githubusercontent.com/u/71507444",
+        "socials": [
+          {
+            "icon": "<img src='https://www.svgrepo.com/download/447150/telegram-outline.svg'>",
+            "link": "https://t.me/egorbron_sleep",
+            "text": "Telegram Channel (RU)"
+          },
+          {
+            "icon": "<img src='https://www.svgrepo.com/download/521688/github.svg'>",
+            "link": "https://github.com/EgorBron",
+            "text": "GitHub"
+          },
+          {
+            "icon": "<img src='https://www.svgrepo.com/download/521128/email-1.svg'>",
+            "link": "mailto:bron@blusutils.net",
+            "text": "E-mail"
+          }
+        ]
+      },
+      "about": {
+        "title": "DSA",
+        "text": "DASDASDASDASD",
+        "images": []
+      },
+      "timeline": {
+        "title": "DASDD",
+        "items": [
+          {
+            "year": "2020",
+            "text": "Started learning C# for Unity"
+          },{
+            "year": "2020",
+            "text": "Started learning C# for Unity"
+          },{
+            "year": "2020",
+            "text": "Started learning C# for Unity"
+          },{
+            "year": "2020",
+            "text": "Started learning C# for Unity"
+          }
+        ]
+      },
+      "skills": {
+        "title": "SKI",
+        "items": [
+          {
+            "name": "undefined",
+            "desc": "undefined",
+            "bg": "undefined",
+            "verbose": null,
+            "thumb": [
+              "undefined"
+            ]
+          }
+        ]
+      },
+      "achievements": {
+        "title": "ACH",
+        "items": [
+          {
+            "name": "undefined",
+            "desc": "undefined",
+            "bg": "undefined",
+            "verbose": "qweqweqwe",
+            "thumb": [
+              "undefined"
+            ]
+          }
+        ]
+      },
+      "portfolio": {
+        "title": "PORT",
+        "items": [
+          {
+            "name": "undefined",
+            "desc": "undefined",
+            "verbose": "undefined",
+            "bg": "undefined",
+            "thumb": [
+              "undefined"
+            ]
+          }
+        ]
+      },
+      "footer": "hjk"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+site:
+  title: "Personpage"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/personpage.js"
+      api: "build/libs/personpage.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/personpage.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080
